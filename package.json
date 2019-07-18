@@ -11,10 +11,5 @@
   "scripts": {
   "start": "electron ."
   },
-  "repository": {
-  "type": "git",
-  "url": "http://github.com/petersigurdson"
-  /> },
-  "author": "The Prof",
   "license": "MIT"
   }
