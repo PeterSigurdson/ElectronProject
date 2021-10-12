@@ -5,7 +5,7 @@
   "description": "This is Me, writing a game",
   "main": "main.js",
   "dependencies": {
-  "electron": "^5.0.7"
+  "electron": "^11.5.0"
   },
   "devDependencies": {},
   "scripts": {
